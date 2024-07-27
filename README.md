@@ -1,51 +1,52 @@
 # my favorite linux-apps
 ## Programming
 - Intellij IDEA : idea
-- Visual Studio Code : code
-- Android Studio
+- Visual Studio Code : code +
+- Android Studio 
 - Flutter
 - Arduino IDE
-- PyCharm
-- Datagrip
+- PyCharm +
+- Datagrip +
 - PgAdmin
 - TOAD For Oracle : with wine :)
 - SQL Server Operations Studio (sqlops)
 - sqlite
 - MySQL Workbench
-- nodejs
+- nodejs + 
 - maven
-- jdk
-- DBeaver
-- git
+- jdk + 17
+- DBeaver +
+- git +
 - Gitkraken
+- anaconda +
 
 ## DevOps
-- docker
+- docker +
 - kubectl
 - lens
 - helm
 
 ## Terminal
 - Tilix
-- Terminator
-- zsh (ohmyzsh)
+- Terminator +
+- zsh (ohmyzsh) +
 
 ## Editor
 - Atom
 - notepad++ (wine)
 - Vim
-- sublimetext
+- sublimetext +
 
 ## Internet
-- Firefox
-- Brave
+- Firefox + 
+- Brave +
 - LibreWolf
 - Chromium
 - Skype
 - Slack
 - WhatsApp
 - Telegram
-- Remnia
+- Remnia +
 - forticlientsslvpn
 - rambox
 - teams for linux
@@ -53,17 +54,17 @@
 ## File
 - nautilus
 - Midnight Commander: mc
-- ncdu
+- ncdu + 
 
 ## Office
 - WPS Office
-- Libre Office
-- okular
-- masterpdf
+- Libre Office +
+- okular +
+- masterpdf +
 
 ## Merge
 - Kompare
-- Meld
+- Meld +
 - kdiff3
 
 ## Microsoft
@@ -73,27 +74,27 @@
 
 ## Sound, Video
 - spotify
-- kazam
+- kazam +
 - kdenlive
 
 ## Graphics
 - MyPaint
 - EdrawMax
 - deepinscreenshot
-- flameshot
-- ksnip
+- flameshot +
+- ksnip + 
 
 ## Other
 - virtualbox
-- htop
-- redshift
-- asciiquarium
+- htop + 
+- redshift +
+- asciiquarium + 
 - xpad
 - timeshift
 - [ulauncher](https://ulauncher.io/)
-- bashtop
+- bashtop+ 
 - caffeine
 - gparted
-- jq
-- yq
+- jq +
+- yq +
 
